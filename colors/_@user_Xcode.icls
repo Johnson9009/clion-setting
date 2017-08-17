@@ -1,10 +1,10 @@
 <scheme name="_@user_Xcode" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-08-15T20:37:36</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-08-15T20:38:57</property>
+    <property name="modified">2017-08-16T12:31:51</property>
     <property name="originalScheme">Xcode</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.99" />
@@ -12,6 +12,7 @@
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="0.99" />
   <attributes>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
